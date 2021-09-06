@@ -54,3 +54,13 @@ function yearValidation(){
   }
 }
 
+//this code validates the user's day input
+function dayValidation(){
+    let day = document.getElementById('box2').value;
+    if (day < 1 || day > 31) {
+      alert("The Day You Entered Is not Valid");
+      return false;
+    }
+  }
+
+  
