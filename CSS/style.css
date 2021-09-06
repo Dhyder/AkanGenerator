@@ -472,3 +472,146 @@ div { position: absolute; }
 	color:#000000;
 }
 
+
+#friday {
+	top: 330px;
+	left: 21px;
+	width: 79px;
+	height: 49.5px;
+	overflow: hidden;
+	font-family: Rationale;
+	font-size: 27px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#saturday {
+	top: 369px;
+	left: 14px;
+	width: 106px;
+	height: 49.5px;
+	overflow: hidden;
+	font-family: Rationale;
+	font-size: 27px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#wednesday {
+	top: 235px;
+	left: 0px;
+	width: 131px;
+	height: 49.5px;
+	overflow: hidden;
+	font-family: Rationale;
+	font-size: 27px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#thursday {
+	top: 281px;
+	left: 3px;
+	width: 110px;
+	height: 49.5px;
+	overflow: hidden;
+	font-family: Rationale;
+	font-size: 27px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#day {
+	top: 0px;
+	left: 16px;
+	width: 94px;
+	height: 89px;
+	overflow: hidden;
+	font-family: Rationale;
+	font-size: 48px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#sunday {
+	top: 84px;
+	left: 9px;
+	width: 91px;
+	height: 49.5px;
+	overflow: hidden;
+	font-family: Rationale;
+	font-size: 27px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#monday {
+	top: 137px;
+	left: 14px;
+	width: 97px;
+	height: 49.5px;
+	overflow: hidden;
+	font-family: Rationale;
+	font-size: 27px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#tuesday {
+	top: 186px;
+	left: 16px;
+	width: 99px;
+	height: 49.5px;
+	overflow: hidden;
+	font-family: Rationale;
+	font-size: 27px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#female_name {
+	top: 15px;
+	left: 124px;
+	width: 133px;
+	height: 45px;
+	overflow: hidden;
+	font-family: Rationale;
+	font-size: 24px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#akosua {
+	top: 87px;
+	left: 138px;
+	width: 90px;
+	height: 49.5px;
+	overflow: hidden;
+	font-family: Rationale;
+	font-size: 27px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#kwasi {
+	top: 87px;
+	left: 264px;
+	width: 75px;
+	height: 49.5px;
+	overflow: hidden;
+	font-family: Rationale;
+	font-size: 27px;
+	text-align: left;
+	color:#000000;
+}
+
