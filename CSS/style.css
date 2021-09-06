@@ -83,3 +83,58 @@ div { position: absolute; }
 	background:rgba(255,255,255,1);
 }
 
+
+
+#birthmonth_box {
+	top: 497px;
+	left: 584px;
+	width: 339px;
+	height: 36px;
+	-ms-border-radius: 30px;
+	-o-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-webkit-border-radius: 30px;
+	border-radius: 30px;
+	background:rgba(255,255,255,1);
+}
+
+
+#birthcentury_box {
+	top: 427px;
+	left: 584px;
+	width: 339px;
+	height: 36px;
+	-ms-border-radius: 30px;
+	-o-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-webkit-border-radius: 30px;
+	border-radius: 30px;
+	background:rgba(255,255,255,1);
+}
+
+
+#year_of_birth {
+	top: 357px;
+	left: 267px;
+	width: 154px;
+	height: 56px;
+	overflow: hidden;
+	font-family: Rationale;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#birth_day {
+	top: 567px;
+	left: 267px;
+	width: 119px;
+	height: 56px;
+	overflow: hidden;
+	font-family: Rationale;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
