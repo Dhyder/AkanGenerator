@@ -71,7 +71,7 @@
                         required
                       />
                     </div>
-                    
+
 				<div class="form-group">
                     <label for=""></label>
                     <select class="custom-select" id="gender" name="Gender">
@@ -83,3 +83,12 @@
 				<div id="generate" class="form-group">
 					<button id="rectangle_3" type="button" onclick="insertCentury();selectGender();insertYear();yearValidation();dayValidation();insertMonth();insertDay();generateName();" class="success">Generate</button>
 				</div>
+                <div class="rectangle_6" id="results"></div>
+				<form class="result" id="answer" action="index.html" method="POST">
+					<div class="form-group">
+						<input type="textarea" name="output" id="output">
+					</div>
+					<div class="form-group">
+						<button type="reset" id="reset">Clear</button>
+					</div>
+			</form>
