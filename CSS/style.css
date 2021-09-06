@@ -742,3 +742,30 @@ div { position: absolute; }
 	stroke-width: 3px;
 	font-weight: bolder;
 }
+#reset{
+	top: 650px;
+	left: 800px;
+	width: 50px;
+	height: 40px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	background:rgba(177.61,41.61,199.75,1);
+	position: absolute;
+	color: ivory;
+}
+h1{
+	top: 0px;
+	left: 600px;
+	width: 1044px;
+	height: 124px;
+	overflow: hidden;
+	font-family: Merriweather;
+	font-size: 45px;
+	text-align: left;
+	color:hsl(347, 62%, 50%);
+	overflow: visible;
+	position: absolute;
+}
