@@ -34,4 +34,13 @@ function insertMonth() {
     }
   }
 
+  //this code alerts user to enter day input if left blank
+function insertDay() {
+    let day = document.getElementById("box2").value;
+    if (day == "") {
+      alert("Please Insert Birthday");
+      return false;
+    }
+  }
+
   
