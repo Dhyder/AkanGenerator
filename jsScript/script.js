@@ -43,4 +43,14 @@ function insertDay() {
     }
   }
 
-  
+  //this code validates the user's year input
+let contemporaryDate = new Date();
+let contemporaryYear = contemporaryDate.getFullYear();
+function yearValidation(){
+  let year = document.getElementById('box1').value;
+  if (year < 1899 || year > contemporaryYear) {
+    alert("The Year You Entered Is not Valid");
+    return false;
+  }
+}
+
