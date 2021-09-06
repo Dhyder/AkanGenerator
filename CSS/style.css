@@ -40,3 +40,46 @@ div { position: absolute; }
 	height: 100px;
 }
 
+
+
+#paragraph{
+	top: 90px;
+	left: 242px;
+	width: 1044px;
+	height: 124px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 26px;
+	text-align: left;
+	color:#FFFFFF;
+	overflow: visible;
+}
+
+
+#yob_box {
+	top: 357px;
+	left: 584px;
+	width: 339px;
+	height: 36px;
+	-ms-border-radius: 30px;
+	-o-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-webkit-border-radius: 30px;
+	border-radius: 30px;
+	background:rgba(255,255,255,1);
+}
+
+
+#birthday_box {
+	top: 567px;
+	left: 584px;
+	width: 339px;
+	height: 36px;
+	-ms-border-radius: 30px;
+	-o-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-webkit-border-radius: 30px;
+	border-radius: 30px;
+	background:rgba(255,255,255,1);
+}
+
