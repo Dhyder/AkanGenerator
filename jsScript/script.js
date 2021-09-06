@@ -24,4 +24,14 @@ function insertYear() {
       return false;
     }
   }
+
+  //this code alerts user to enter month input if left blank
+function insertMonth() {
+    let month = document.getElementById("box3").value;
+    if (month == "0") {
+      alert("Please Select Month");
+      return false;
+    }
+  }
+
   
