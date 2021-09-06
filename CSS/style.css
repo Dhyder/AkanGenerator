@@ -615,3 +615,130 @@ div { position: absolute; }
 	color:#000000;
 }
 
+
+#rectangle_8 {
+	top: 645px;
+	left: 584px;
+	width: 165px;
+	height: 40px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	background:rgba(177.61,41.61,199.75,1);
+}
+
+
+#generate {
+	top: 647px;
+	left: 618px;
+	width: 117px;
+	height: 56px;
+	overflow: hidden;
+	font-family: Rationale;
+	font-size: 30px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#box1{
+	top: 357px;
+	left: 584px;
+	width: 339px;
+	height: 36px;
+	-ms-border-radius: 30px;
+	-o-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-webkit-border-radius: 30px;
+	border-radius: 30px;
+	background:rgba(255,255,255,1);
+	font-family: poppins;
+	font-size: large;
+}
+#box2{
+	top: 567px;
+	left: 584px;
+	width: 339px;
+	height: 36px;
+	-ms-border-radius: 30px;
+	-o-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-webkit-border-radius: 30px;
+	border-radius: 30px;
+	background:rgba(255,255,255,1);
+	font-family: poppins;
+	font-size: large;
+}
+#box3{
+	top: 497px;
+	left: 584px;
+	width: 339px;
+	height: 36px;
+	-ms-border-radius: 30px;
+	-o-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-webkit-border-radius: 30px;
+	border-radius: 30px;
+	background:rgba(255,255,255,1);
+	font-family: poppins;
+	font-size: large;
+}
+#box4{
+	top: 427px;
+	left: 584px;
+	width: 339px;
+	height: 36px;
+	-ms-border-radius: 30px;
+	-o-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-webkit-border-radius: 30px;
+	border-radius: 30px;
+	background:rgba(255,255,255,1);
+	font-family: poppins;
+	font-size: large;
+}
+#rectangle_3{
+	top: 645px;
+	left: 584px;
+	width: 100px;
+	height: 40px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	background:rgba(177.61,41.61,199.75,1);
+	font-family: poppins;
+	color: #FFFFFF;
+}
+#gender{
+	top: 645px;
+	left: 270px;
+	width: 100px;
+	height: 40px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	background:rgb(21, 201, 51);
+	font-family: poppins;
+	position: absolute;
+	font-size:15px;
+	stroke-width: 3px;
+}
+#output{
+	top: 777.5px;
+	left: 529.5px;
+	width: 750px;
+	height: 46px;
+	position: absolute;
+	border-radius: 40px;
+	background-color: rgb(108, 199, 202);
+	color: rgb(187, 60, 138);
+	font-size: larger;
+	font-family: poppins;
+	stroke-width: 3px;
+	font-weight: bolder;
+}
