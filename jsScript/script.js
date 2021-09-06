@@ -15,3 +15,13 @@ function insertCentury() {
       return false;
     }
   }
+
+  //this code alerts user to enter year input if left blank
+function insertYear() {
+    let year = document.getElementById("box1").value;
+    if (year == "") {
+      alert("Please Insert Year");
+      return false;
+    }
+  }
+  
