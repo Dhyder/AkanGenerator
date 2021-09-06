@@ -7,4 +7,11 @@ function selectGender() {
     }
   }
 
-  
+  //this code alerts user to enter century input if left blank
+function insertCentury() {
+    let century = document.getElementById("box4").value;
+    if (century == "") {
+      alert("Please Insert Birth Century");
+      return false;
+    }
+  }
