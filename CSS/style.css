@@ -7,3 +7,36 @@ div { position: absolute; }
 #content-container { display: block; position: relative; width: 1440px;  margin-left: auto; margin-right: auto;  }
 
 #content-container > div{ position: relative; top:inherit; }
+
+#content-container > div{ position: relative; top:inherit; }
+#page_desktop__ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+}
+
+#_bg__desktop__ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+	background:rgba(255,255,255,1);
+}
+
+
+#_6415d543fb45c77939a78df29366652c_1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+}
+
+
+#ghana_flag_1 {
+	top: 14px;
+	left: 19px;
+	width: 100px;
+	height: 100px;
+}
+
