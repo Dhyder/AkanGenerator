@@ -138,3 +138,43 @@ div { position: absolute; }
 	color:#000000;
 }
 
+
+
+#birth_month {
+	top: 497px;
+	left: 267px;
+	width: 148px;
+	height: 56px;
+	overflow: hidden;
+	font-family: Rationale;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#birth_century {
+	top: 427px;
+	left: 267px;
+	width: 161px;
+	height: 56px;
+	overflow: hidden;
+	font-family: Rationale;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#akan_name {
+	top: 771px;
+	left: 257px;
+	width: 467px;
+	height: 150px;
+	overflow: hidden;
+	font-family: Rationale;
+	font-size: 48px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
